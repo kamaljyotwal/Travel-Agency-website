@@ -1,0 +1,10 @@
+input {
+  padding: 0 10px !important;
+}
+.section-follow .fa-3x {
+  padding: 0 8px;
+}
+.popular-card:hover {
+  transform: rotate(-3deg);
+  cursor: pointer;
+}
